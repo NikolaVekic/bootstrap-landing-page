@@ -11,7 +11,8 @@ A simple and responsive frontend project built using HTML, CSS, and Bootstrap. T
 - **Clean and Readable Code** 
 
 ## Screenshots
-![screencapture-nikolavekic-github-io-Bootstrap-Frontend-2024-01-25-16_33_25](https://github.com/NikolaVekic/Bootstrap-Frontend/assets/55920607/12171aa8-d71e-4134-bf66-85360538c258)
+![screencapture-nikolavekic-github-io-Bootstrap-Frontend-2024-02-01-19_29_46](https://github.com/NikolaVekic/Bootstrap-Frontend/assets/55920607/20bb8472-a2d7-4768-a25b-0e275b8bdbd7)
+
 
 ## Live Website
 https://nikolavekic.github.io/Bootstrap-Frontend/
