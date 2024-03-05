@@ -15,7 +15,7 @@ A simple and responsive frontend project built using HTML, CSS, and Bootstrap. T
 
 
 ## Live Website
-https://nikolavekic.github.io/Bootstrap-Frontend/
+[https://nikolavekic.github.io/Bootstrap-Frontend/](https://web-dev-landing-page.netlify.app/)
 
 ## Usage
 
